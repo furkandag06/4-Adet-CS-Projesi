@@ -1,0 +1,12 @@
+C:\Users\gamen\OneDrive\Masaüstü\ODAKGİS\C#\Alan-Hesaplama\bin\Debug\netcoreapp3.1\Alan-Hesaplama.exe
+C:\Users\gamen\OneDrive\Masaüstü\ODAKGİS\C#\Alan-Hesaplama\bin\Debug\netcoreapp3.1\Alan-Hesaplama.deps.json
+C:\Users\gamen\OneDrive\Masaüstü\ODAKGİS\C#\Alan-Hesaplama\bin\Debug\netcoreapp3.1\Alan-Hesaplama.runtimeconfig.json
+C:\Users\gamen\OneDrive\Masaüstü\ODAKGİS\C#\Alan-Hesaplama\bin\Debug\netcoreapp3.1\Alan-Hesaplama.runtimeconfig.dev.json
+C:\Users\gamen\OneDrive\Masaüstü\ODAKGİS\C#\Alan-Hesaplama\bin\Debug\netcoreapp3.1\Alan-Hesaplama.dll
+C:\Users\gamen\OneDrive\Masaüstü\ODAKGİS\C#\Alan-Hesaplama\bin\Debug\netcoreapp3.1\Alan-Hesaplama.pdb
+C:\Users\gamen\OneDrive\Masaüstü\ODAKGİS\C#\Alan-Hesaplama\obj\Debug\netcoreapp3.1\Alan-Hesaplama.AssemblyInfoInputs.cache
+C:\Users\gamen\OneDrive\Masaüstü\ODAKGİS\C#\Alan-Hesaplama\obj\Debug\netcoreapp3.1\Alan-Hesaplama.AssemblyInfo.cs
+C:\Users\gamen\OneDrive\Masaüstü\ODAKGİS\C#\Alan-Hesaplama\obj\Debug\netcoreapp3.1\Alan-Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\gamen\OneDrive\Masaüstü\ODAKGİS\C#\Alan-Hesaplama\obj\Debug\netcoreapp3.1\Alan-Hesaplama.dll
+C:\Users\gamen\OneDrive\Masaüstü\ODAKGİS\C#\Alan-Hesaplama\obj\Debug\netcoreapp3.1\Alan-Hesaplama.pdb
+C:\Users\gamen\OneDrive\Masaüstü\ODAKGİS\C#\Alan-Hesaplama\obj\Debug\netcoreapp3.1\Alan-Hesaplama.genruntimeconfig.cache
