@@ -1,0 +1,12 @@
+C:\Users\gamen\source\repos\Kart-Oyunu\bin\Debug\netcoreapp3.1\Kart-Oyunu.exe
+C:\Users\gamen\source\repos\Kart-Oyunu\bin\Debug\netcoreapp3.1\Kart-Oyunu.deps.json
+C:\Users\gamen\source\repos\Kart-Oyunu\bin\Debug\netcoreapp3.1\Kart-Oyunu.runtimeconfig.json
+C:\Users\gamen\source\repos\Kart-Oyunu\bin\Debug\netcoreapp3.1\Kart-Oyunu.runtimeconfig.dev.json
+C:\Users\gamen\source\repos\Kart-Oyunu\bin\Debug\netcoreapp3.1\Kart-Oyunu.dll
+C:\Users\gamen\source\repos\Kart-Oyunu\bin\Debug\netcoreapp3.1\Kart-Oyunu.pdb
+C:\Users\gamen\source\repos\Kart-Oyunu\obj\Debug\netcoreapp3.1\Kart-Oyunu.AssemblyInfoInputs.cache
+C:\Users\gamen\source\repos\Kart-Oyunu\obj\Debug\netcoreapp3.1\Kart-Oyunu.AssemblyInfo.cs
+C:\Users\gamen\source\repos\Kart-Oyunu\obj\Debug\netcoreapp3.1\Kart-Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\gamen\source\repos\Kart-Oyunu\obj\Debug\netcoreapp3.1\Kart-Oyunu.dll
+C:\Users\gamen\source\repos\Kart-Oyunu\obj\Debug\netcoreapp3.1\Kart-Oyunu.pdb
+C:\Users\gamen\source\repos\Kart-Oyunu\obj\Debug\netcoreapp3.1\Kart-Oyunu.genruntimeconfig.cache

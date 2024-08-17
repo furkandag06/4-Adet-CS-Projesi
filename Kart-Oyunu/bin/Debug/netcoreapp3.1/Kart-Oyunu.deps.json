@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kart-Oyunu/1.0.0": {
+        "runtime": {
+          "Kart-Oyunu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kart-Oyunu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
